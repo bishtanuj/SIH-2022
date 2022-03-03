@@ -119,14 +119,14 @@ nav
 {
     position: relative;
     width: 1400px;
-    height: 680px;
+    height: 340px;
     margin: 90px auto;
     background: rgb(251, 237, 227);
 }
 .container-ut .box
 {
     position: relative;
-    width: calc(300px - 10px);
+    width: calc(220px - 10px);
     height: calc(300px - 30px);
     background: rgb(255, 205, 172);
     float: left;
